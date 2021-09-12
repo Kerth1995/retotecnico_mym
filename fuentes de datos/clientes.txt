@@ -1,0 +1,17 @@
+vc_codigo|vc_dni|vc_nombres|vc_apellidos
+1234|12345678|Ronald1|Ramos1
+1234|12345678|Ronald2|Ramos2
+1234|12345678|Ronald3|Ramos3
+1234|12345678|Ronald4|Ramos4
+1234|12345678|Ronald5|Ramos5
+1234|12345678|Ronald6|Ramos6
+1234|12345678|Ronald7|Ramos7
+1234|12345678|Ronald8|Ramos8
+1234|12345678|Ronald9|Ramos9
+1234|12345678|Ronald10|Ramos10
+1234|12345678|Ronald11|Ramos11
+1234|12345678|Ronald12|Ramos12
+1234|12345678|Ronald13|Ramos13
+1234|12345678|Ronald14|Ramos14
+1234|12345678|Ronald15|Ramos15
+1234|12345678|Ronald16|Ramos16

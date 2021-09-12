@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JKCC_SQLEXPRESS.M_M_SECONDARY"
+  DTS:DTSID="{2351D895-1F5A-4F91-8C2A-24857C04E25F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=JKCC\SQLEXPRESS;Initial Catalog=M&amp;M_SECONDARY;Integrated Security=True;Application Name=SSIS-Demos-{2351D895-1F5A-4F91-8C2A-24857C04E25F}JKCC\SQLEXPRESS.M&amp;M_SECONDARY;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
